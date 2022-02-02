@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T11:20:46.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="6T8t7w-HdfMeUa8DEkri" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T11:23:23.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="ksVl0OaoJ8NXChSE5Xyh" version="16.5.2" type="github">
   <diagram id="tc6RuyASvO1Nn48kO2Fu" name="Page-1">
-    <mxGraphModel dx="3160" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1648" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,14 +19,11 @@
             <mxPoint x="240" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MuP_y4Y1Om4tm-9x30yw-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.019;exitY=0.598;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="MuP_y4Y1Om4tm-9x30yw-13" target="MuP_y4Y1Om4tm-9x30yw-4">
+        <mxCell id="MuP_y4Y1Om4tm-9x30yw-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuP_y4Y1Om4tm-9x30yw-36" target="MuP_y4Y1Om4tm-9x30yw-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="238.57" as="sourcePoint" />
+            <mxPoint x="143.42000000000053" y="469.7999999999997" as="sourcePoint" />
             <mxPoint x="320" y="450" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MuP_y4Y1Om4tm-9x30yw-13" value="ORGANISATION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="410" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MuP_y4Y1Om4tm-9x30yw-14" value="Compléter le profil" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="140" width="120" height="80" as="geometry" />
@@ -46,15 +43,15 @@
             <mxPoint x="210" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MuP_y4Y1Om4tm-9x30yw-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="MuP_y4Y1Om4tm-9x30yw-13" target="MuP_y4Y1Om4tm-9x30yw-17">
+        <mxCell id="MuP_y4Y1Om4tm-9x30yw-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuP_y4Y1Om4tm-9x30yw-36" target="MuP_y4Y1Om4tm-9x30yw-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="320" as="sourcePoint" />
+            <mxPoint x="140" y="485" as="sourcePoint" />
             <mxPoint x="420" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MuP_y4Y1Om4tm-9x30yw-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuP_y4Y1Om4tm-9x30yw-13" target="MuP_y4Y1Om4tm-9x30yw-18">
+        <mxCell id="MuP_y4Y1Om4tm-9x30yw-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="MuP_y4Y1Om4tm-9x30yw-36" target="MuP_y4Y1Om4tm-9x30yw-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="290" as="sourcePoint" />
+            <mxPoint x="140" y="460" as="sourcePoint" />
             <mxPoint x="290" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -87,6 +84,12 @@
             <mxPoint x="120" y="310" as="sourcePoint" />
             <mxPoint x="220.00000000000864" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MuP_y4Y1Om4tm-9x30yw-35" value="BDD ARMADA2023" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MuP_y4Y1Om4tm-9x30yw-36" value="Participants" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="380" width="120" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
