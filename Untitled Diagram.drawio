@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T08:08:10.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="JXXlAKhYZSobr-2A-H7d" version="16.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-09T08:11:40.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="bRcAj9Gfx4ZMm4B8buzy" version="16.5.3" type="github" pages="4">
   <diagram id="tc6RuyASvO1Nn48kO2Fu" name="Projet global">
     <mxGraphModel dx="1278" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,6 +229,22 @@
         <mxCell id="qpRcwJ8WLuBixexTDm8G-28" value="Rechercher par locataire" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="-890" width="80" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rkwlxqNx_QLnGuUey_1U" name="Lot 1">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="-eg750hvULXs3dw6YuHf-0" />
+        <mxCell id="-eg750hvULXs3dw6YuHf-1" parent="-eg750hvULXs3dw6YuHf-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A_ANabKTFouvzcpCE16l" name="Lot 2">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="H3deYEKj7ucZrGq_XgWi-0" />
+        <mxCell id="H3deYEKj7ucZrGq_XgWi-1" parent="H3deYEKj7ucZrGq_XgWi-0" />
       </root>
     </mxGraphModel>
   </diagram>
