@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T12:58:02.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="16ck539Fbqw20QC-w7xO" version="16.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-09T12:58:38.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="rn0B3_TE_BkynUY1x7ET" version="16.5.4" type="github" pages="4">
   <diagram id="tc6RuyASvO1Nn48kO2Fu" name="Projet global">
-    <mxGraphModel dx="1483" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MuP_y4Y1Om4tm-9x30yw-35" value="BDD ARMADA2023" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="-30" width="180" height="100" as="geometry" />
+          <mxGeometry x="890" y="40" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MuP_y4Y1Om4tm-9x30yw-36" value="Organisateurs&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="390" width="90" height="150" as="geometry" />
@@ -89,12 +89,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3mLBiaof892ooAd1ODVL-1" value="ARMADA2023" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="150" y="-185" width="500" height="770" as="geometry">
+          <mxGeometry x="200" y="-210" width="630" height="830" as="geometry">
             <mxRectangle x="150" y="-185" width="110" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MuP_y4Y1Om4tm-9x30yw-29" value="S&#39;inscrire" style="ellipse;whiteSpace=wrap;html=1;" parent="3mLBiaof892ooAd1ODVL-1" vertex="1">
-          <mxGeometry x="50" y="70" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MuP_y4Y1Om4tm-9x30yw-16" value="Modifier les paramètres d&#39;un compte" style="ellipse;whiteSpace=wrap;html=1;" parent="3mLBiaof892ooAd1ODVL-1" vertex="1">
           <mxGeometry x="300" y="575" width="120" height="80" as="geometry" />
