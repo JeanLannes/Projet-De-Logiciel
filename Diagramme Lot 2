@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T15:23:39.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ezB0yHF_yYY0nNw9cawT" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T15:31:36.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Iq-thDaWFrh4sdC5hpT4" version="16.6.2" type="github">
   <diagram id="gixak64qnzeRJ0BbrjQT" name="Page-1">
-    <mxGraphModel dx="1278" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1966" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,10 +134,10 @@
         <mxCell id="4h7iRZYuGs0E5sgP37kV-28" value="Ajouter un participant" style="ellipse;whiteSpace=wrap;html=1;direction=east;" parent="4h7iRZYuGs0E5sgP37kV-6" vertex="1">
           <mxGeometry x="210" y="910" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4h7iRZYuGs0E5sgP37kV-29" value="Modifier un participant" style="ellipse;whiteSpace=wrap;html=1;" parent="4h7iRZYuGs0E5sgP37kV-6" vertex="1">
+        <mxCell id="4h7iRZYuGs0E5sgP37kV-29" value="Modifier les informations d&#39;un participant" style="ellipse;whiteSpace=wrap;html=1;" parent="4h7iRZYuGs0E5sgP37kV-6" vertex="1">
           <mxGeometry x="340" y="910" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4h7iRZYuGs0E5sgP37kV-30" value="Editer un participant" style="ellipse;whiteSpace=wrap;html=1;" parent="4h7iRZYuGs0E5sgP37kV-6" vertex="1">
+        <mxCell id="4h7iRZYuGs0E5sgP37kV-30" value="Editer les informations d&#39;un participant" style="ellipse;whiteSpace=wrap;html=1;" parent="4h7iRZYuGs0E5sgP37kV-6" vertex="1">
           <mxGeometry x="470" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4h7iRZYuGs0E5sgP37kV-31" value="Supprimer un participant" style="ellipse;whiteSpace=wrap;html=1;" parent="4h7iRZYuGs0E5sgP37kV-6" vertex="1">
@@ -206,7 +206,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0o2unT9MHyYE6khVPDsH-1" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;shadow=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="4h7iRZYuGs0E5sgP37kV-6" source="4h7iRZYuGs0E5sgP37kV-34" target="4h7iRZYuGs0E5sgP37kV-32">
+        <mxCell id="0o2unT9MHyYE6khVPDsH-1" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;shadow=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="4h7iRZYuGs0E5sgP37kV-6" source="4h7iRZYuGs0E5sgP37kV-34" target="4h7iRZYuGs0E5sgP37kV-32" edge="1">
           <mxGeometry x="-0.6711" y="-27" width="160" relative="1" as="geometry">
             <mxPoint x="550" y="1110" as="sourcePoint" />
             <mxPoint x="460" y="1110" as="targetPoint" />
