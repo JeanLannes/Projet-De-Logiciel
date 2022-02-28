@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T16:09:40.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="n7GQlCJW8kG_k1WIQTpS" version="16.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-28T16:18:01.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="rmYjSH2qoJLGoBmHShz3" version="16.6.4" type="github" pages="6">
   <diagram id="tc6RuyASvO1Nn48kO2Fu" name="Projet global">
     <mxGraphModel dx="1598" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,12 +179,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XPa7cSOEMGW5LrDc1097" name="Diagramme de classe global">
-    <mxGraphModel dx="1217" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EsWRagCw-3JIHwZbqq4Z-0" />
         <mxCell id="EsWRagCw-3JIHwZbqq4Z-1" parent="EsWRagCw-3JIHwZbqq4Z-0" />
         <mxCell id="EsWRagCw-3JIHwZbqq4Z-21" value="Bateau" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="EsWRagCw-3JIHwZbqq4Z-1">
-          <mxGeometry x="280" y="646" width="160" height="270" as="geometry" />
+          <mxGeometry x="280" y="646" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="EsWRagCw-3JIHwZbqq4Z-22" value="- nomBateau : String&#xa;- tailleBateau : double&#xa;- pavillon : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EsWRagCw-3JIHwZbqq4Z-21">
           <mxGeometry y="26" width="160" height="94" as="geometry" />
@@ -193,7 +193,7 @@
           <mxGeometry y="120" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="EsWRagCw-3JIHwZbqq4Z-24" value="+ Bateau" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EsWRagCw-3JIHwZbqq4Z-21">
-          <mxGeometry y="128" width="160" height="142" as="geometry" />
+          <mxGeometry y="128" width="160" height="42" as="geometry" />
         </mxCell>
         <mxCell id="EsWRagCw-3JIHwZbqq4Z-29" value="Utilisateur" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="EsWRagCw-3JIHwZbqq4Z-1">
           <mxGeometry x="360" y="239" width="240" height="280" as="geometry" />
@@ -367,25 +367,25 @@
         <mxCell id="yLpemR1EXEi3CLoo4Agy-30" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="EsWRagCw-3JIHwZbqq4Z-1" source="yLpemR1EXEi3CLoo4Agy-16">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="540.3999999999999" y="655.828" as="sourcePoint" />
-            <mxPoint x="570" y="520" as="targetPoint" />
+            <mxPoint x="570" y="540" as="targetPoint" />
             <Array as="points">
               <mxPoint x="568" y="581" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yLpemR1EXEi3CLoo4Agy-31" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.008;exitY=-0.06;exitDx=0;exitDy=0;entryX=1.01;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="EsWRagCw-3JIHwZbqq4Z-1" source="yLpemR1EXEi3CLoo4Agy-3" target="EsWRagCw-3JIHwZbqq4Z-32">
+        <mxCell id="yLpemR1EXEi3CLoo4Agy-31" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.008;exitY=-0.06;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="EsWRagCw-3JIHwZbqq4Z-1" source="yLpemR1EXEi3CLoo4Agy-3">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="690" y="591.4999999999999" as="sourcePoint" />
-            <mxPoint x="578.0799999999999" y="533.004" as="targetPoint" />
+            <mxPoint x="610" y="436" as="targetPoint" />
             <Array as="points">
               <mxPoint x="630" y="436" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yLpemR1EXEi3CLoo4Agy-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.008;exitY=-0.06;exitDx=0;exitDy=0;entryX=1.01;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="EsWRagCw-3JIHwZbqq4Z-1">
+        <mxCell id="yLpemR1EXEi3CLoo4Agy-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.008;exitY=-0.06;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="EsWRagCw-3JIHwZbqq4Z-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="678.88" y="290" as="sourcePoint" />
-            <mxPoint x="600.0000000000001" y="290.644" as="targetPoint" />
+            <mxPoint x="610" y="291" as="targetPoint" />
             <Array as="points">
               <mxPoint x="627.6" y="291" />
             </Array>
@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rkwlxqNx_QLnGuUey_1U" name="Lot 1">
-    <mxGraphModel dx="1278" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1966" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-eg750hvULXs3dw6YuHf-0" />
         <mxCell id="-eg750hvULXs3dw6YuHf-1" parent="-eg750hvULXs3dw6YuHf-0" />
@@ -1143,9 +1143,6 @@
               <mxPoint x="620" y="550" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="grFRKSrOQ2nXCtJBr-MT-0" value="INSTALLER UN LECTEUR POUR LE CONTROLE DES LAISSEZ-PASSER" style="rounded=0;whiteSpace=wrap;html=1;" parent="-eg750hvULXs3dw6YuHf-1" vertex="1">
-          <mxGeometry x="360" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="grFRKSrOQ2nXCtJBr-MT-1" value="LECTEUR" style="rhombus;whiteSpace=wrap;html=1;" parent="-eg750hvULXs3dw6YuHf-1" vertex="1">
           <mxGeometry x="1654" y="1130" width="90" height="90" as="geometry" />
@@ -1973,7 +1970,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k6ZYtMEJtA7pnn4proKs" name="Lot 3">
-    <mxGraphModel dx="1384" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tMnad6CDmUKbnZ8AT2Yw-0" />
         <mxCell id="tMnad6CDmUKbnZ8AT2Yw-1" parent="tMnad6CDmUKbnZ8AT2Yw-0" />
