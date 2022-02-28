@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T15:08:59.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="L8yNaebfMF9BE4SppUx2" version="16.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-28T13:43:03.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="NKLy3x9daiXIqSe4vsBm" version="16.6.4" type="github" pages="5">
   <diagram id="tc6RuyASvO1Nn48kO2Fu" name="Projet global">
-    <mxGraphModel dx="1597" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rkwlxqNx_QLnGuUey_1U" name="Lot 1">
-    <mxGraphModel dx="1597" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-eg750hvULXs3dw6YuHf-0" />
         <mxCell id="-eg750hvULXs3dw6YuHf-1" parent="-eg750hvULXs3dw6YuHf-0" />
@@ -899,7 +899,7 @@
         <mxCell id="M0T0EyF6SJ-2vCDb3WbZ-296" value="Suivre l&#39;état de la demande" style="ellipse;whiteSpace=wrap;html=1;" parent="-eg750hvULXs3dw6YuHf-1" vertex="1">
           <mxGeometry x="420" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M0T0EyF6SJ-2vCDb3WbZ-297" value="Modifier la demande d&#39;un laisser-passé" style="ellipse;whiteSpace=wrap;html=1;" parent="-eg750hvULXs3dw6YuHf-1" vertex="1">
+        <mxCell id="M0T0EyF6SJ-2vCDb3WbZ-297" value="Modifier la demande d&#39;un laissez-passer" style="ellipse;whiteSpace=wrap;html=1;" parent="-eg750hvULXs3dw6YuHf-1" vertex="1">
           <mxGeometry x="420" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M0T0EyF6SJ-2vCDb3WbZ-307" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;shadow=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.298;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" parent="-eg750hvULXs3dw6YuHf-1" source="M0T0EyF6SJ-2vCDb3WbZ-296" target="M0T0EyF6SJ-2vCDb3WbZ-295" edge="1">
