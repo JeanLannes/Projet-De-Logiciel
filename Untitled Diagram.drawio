@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T13:45:12.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="JiTv-zqu4BLCDNQsHomG" version="16.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-07T13:49:09.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="1jW8j8dBj3sw2j_vvhfS" version="16.6.6" type="github" pages="6">
   <diagram id="tc6RuyASvO1Nn48kO2Fu" name="Projet global">
     <mxGraphModel dx="1278" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -325,7 +325,7 @@
         <mxCell id="ky1q3qeVhKsobnb6hEdS-64" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ky1q3qeVhKsobnb6hEdS-61" vertex="1">
           <mxGeometry y="80" width="333" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="ky1q3qeVhKsobnb6hEdS-65" value="+ FamilleAccueil(in adresse: String, in nombreDePlace : int) &#xa;                                                                                          CO&#xa;+ getAdresse() : String&#xa;+ getNombreDePlace() : int&#xa;+ getIdFamilleAcceuil() : String&#xa;+ setAdresse(adresse : String) : void&#xa;+ setNombreDePlace (nombreDePlace : int) : void&#xa;+ setIdFamilleAcceuil(idFamilleAcceuil : String) : void&#xa;+ display() : void&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ky1q3qeVhKsobnb6hEdS-61" vertex="1">
+        <mxCell id="ky1q3qeVhKsobnb6hEdS-65" value="+ FamilleAccueil(in adresse : String, in nombreDePlace : int, &#xa;        in idFamilleAcceuil : String)                                       CO&#xa;+ getAdresse() : String&#xa;+ getNombreDePlace() : int&#xa;+ getIdFamilleAcceuil() : String&#xa;+ setAdresse(adresse : String) : void&#xa;+ setNombreDePlace (nombreDePlace : int) : void&#xa;+ setIdFamilleAcceuil(idFamilleAcceuil : String) : void&#xa;+ display() : void&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ky1q3qeVhKsobnb6hEdS-61" vertex="1">
           <mxGeometry y="88" width="333" height="152" as="geometry" />
         </mxCell>
         <mxCell id="ky1q3qeVhKsobnb6hEdS-69" value="Vip" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="EsWRagCw-3JIHwZbqq4Z-1" vertex="1">
