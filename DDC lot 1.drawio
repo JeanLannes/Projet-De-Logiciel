@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T10:06:45.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="yV8FeVbKkFW-6elX_Ii7" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T10:23:05.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="p87xoMKxQTF-qQK3_TB-" version="17.1.2" type="github">
   <diagram id="pmPVxWBvfErrvhI0WtuU" name="DDC1">
     <mxGraphModel dx="2050" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7gchvuawiLb_LsRf-Ycw-1" value="LaissezPasser" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-720" width="600" height="580" as="geometry">
+          <mxGeometry x="160" y="-720" width="600" height="590" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7gchvuawiLb_LsRf-Ycw-2" value="- nomLP : String&#xa;- prenomLP : String&#xa;- metierLP : String&#xa;- entrepriseLP : String&#xa;- estValide : boolean&#xa;- estArchivee : boolean&#xa;- estDemande : boolean&#xa;- estImprimee : boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7gchvuawiLb_LsRf-Ycw-1" vertex="1">
+        <mxCell id="7gchvuawiLb_LsRf-Ycw-2" value="- nomLP : String&#xa;- prenomLP : String&#xa;- metierLP : String&#xa;- entrepriseLP : String&#xa;- estVehicule : boolean&#xa;- estValide : boolean&#xa;- estArchivee : boolean&#xa;- estDemande : boolean&#xa;- estImprimee : boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7gchvuawiLb_LsRf-Ycw-1" vertex="1">
           <mxGeometry y="26" width="600" height="134" as="geometry" />
         </mxCell>
         <mxCell id="7gchvuawiLb_LsRf-Ycw-3" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="7gchvuawiLb_LsRf-Ycw-1" vertex="1">
           <mxGeometry y="160" width="600" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="7gchvuawiLb_LsRf-Ycw-4" value="+ LaissezPasser(in nomLP : String, in prenomLP : String, in estValide : boolean, in metierLP : String,&#xa;     in entrepriseLP : String, in estArchivee : boolean, in estDemande : boolean, in estImprimee : boolean)    CO&#xa;&#xa;+ getNomLP() : String&#xa;+ getPrenomLP() : String&#xa;+ getMetierLP() : String&#xa;+ getEntrepriseLP() : String&#xa;+ getEstValide() : boolean&#xa;+ getEstArchivee() : boolean &#xa;+ getEstDemande() : boolean &#xa;+ getEstImprimee() : boolean &#xa;&#xa;+ setNomLP(in nomLP : String) : void&#xa;+ setPrenomLP(in prenomLP : String) : void&#xa;+ setMetierLP(in metierLP : String) : void&#xa;+ setEntrepriseLP(in entrepriseLP : String) : void&#xa;+ setEstValide(in estValide : boolean) : void&#xa;+ setEstArchivee(in estArchivee : boolean) : void&#xa;+ setEstDemande(in estDemande : boolean) : void&#xa;+ setEstImprimee(in estImprimee : boolean) : void&#xa;&#xa;+ display() : void&#xa;+ modifier() : void&#xa;+ supprimer() : void&#xa;+ annulerLP() : void&#xa;+ rechercher() : void&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7gchvuawiLb_LsRf-Ycw-1" vertex="1">
-          <mxGeometry y="168" width="600" height="412" as="geometry" />
+        <mxCell id="7gchvuawiLb_LsRf-Ycw-4" value="+ LaissezPasser(in nomLP : String, in prenomLP : String, in estValide : boolean, in metierLP : String,&#xa;     in entrepriseLP : String, in estVehicule : boolean,  in estArchivee : boolean, in estDemande : boolean, &#xa;    in estImprimee : boolean)                                                                                                                            CO&#xa;&#xa;+ getNomLP() : String&#xa;+ getPrenomLP() : String&#xa;+ getMetierLP() : String&#xa;+ getEntrepriseLP() : String&#xa;+ getEstVehicule() : boolean&#xa;+ getEstValide() : boolean&#xa;+ getEstArchivee() : boolean &#xa;+ getEstDemande() : boolean &#xa;+ getEstImprimee() : boolean &#xa;&#xa;+ setNomLP(in nomLP : String) : void&#xa;+ setPrenomLP(in prenomLP : String) : void&#xa;+ setMetierLP(in metierLP : String) : void&#xa;+ setEntrepriseLP(in entrepriseLP : String) : void&#xa;+ setEstVehicule(in estVehicule : boolean) : void&#xa;+ setEstValide(in estValide : boolean) : void&#xa;+ setEstArchivee(in estArchivee : boolean) : void&#xa;+ setEstDemande(in estDemande : boolean) : void&#xa;+ setEstImprimee(in estImprimee : boolean) : void&#xa;&#xa;+ display() : void&#xa;+ modifier() : void&#xa;+ supprimer() : void&#xa;+ annulerLP() : void&#xa;+ rechercher() : void&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7gchvuawiLb_LsRf-Ycw-1" vertex="1">
+          <mxGeometry y="168" width="600" height="422" as="geometry" />
         </mxCell>
         <mxCell id="7gchvuawiLb_LsRf-Ycw-7" value="Participant" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="320" height="408" as="geometry">
@@ -505,13 +505,11 @@
           <mxGeometry x="-30" y="-840" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7gchvuawiLb_LsRf-Ycw-128" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;entryX=1.002;entryY=0.337;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7gchvuawiLb_LsRf-Ycw-4" target="7gchvuawiLb_LsRf-Ycw-108" edge="1">
-          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+          <mxGeometry x="-0.9124" y="11" relative="1" as="geometry">
             <mxPoint x="150" y="-361" as="sourcePoint" />
             <mxPoint x="150" y="-360" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7gchvuawiLb_LsRf-Ycw-130" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-400" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7gchvuawiLb_LsRf-Ycw-131" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-40" y="-400" width="20" height="20" as="geometry" />
