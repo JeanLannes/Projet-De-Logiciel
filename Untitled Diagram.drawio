@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T20:36:21.439Z" agent="5.0 (Windows)" etag="rE5Z-_RIjRI7tjf8Z8zs" version="17.1.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-18T20:37:36.629Z" agent="5.0 (Windows)" etag="LPk9xdkvG6pyCiH6vNm-" version="17.1.3" type="github" pages="8">
   <diagram id="tc6RuyASvO1Nn48kO2Fu" name="Projet global">
     <mxGraphModel dx="1422" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2415,10 +2415,10 @@
         <mxCell id="3tyHtCFuhu8MwL1Jz1tp-3" value="nom : String&#xa;prenom : String&#xa;estValide : boolean&#xa;estArchivee : boolean&#xa;estDemande : boolean&#xa;estImprimee : boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3tyHtCFuhu8MwL1Jz1tp-2" vertex="1">
           <mxGeometry y="26" width="560" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="3tyHtCFuhu8MwL1Jz1tp-4" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3tyHtCFuhu8MwL1Jz1tp-2" target="3tyHtCFuhu8MwL1Jz1tp-111" edge="1">
+        <mxCell id="3tyHtCFuhu8MwL1Jz1tp-4" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3tyHtCFuhu8MwL1Jz1tp-2" edge="1">
           <mxGeometry x="0.6672" y="10" relative="1" as="geometry">
             <mxPoint x="560" y="180" as="sourcePoint" />
-            <mxPoint x="710" y="180" as="targetPoint" />
+            <mxPoint x="680" y="179.81999999999994" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -2858,14 +2858,11 @@
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3tyHtCFuhu8MwL1Jz1tp-109" value="- nbrEmplacementParking : int&#xa;- nbrEmplacementReserve : int&#xa;- nbrEmplacementLibre : int&#xa;- estPleine : boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3tyHtCFuhu8MwL1Jz1tp-108" vertex="1">
+        <mxCell id="3tyHtCFuhu8MwL1Jz1tp-109" value="nbrEmplacementParking : int&#xa;nbrEmplacementReserve : intnbrEmplacementLibre : int&#xa;estPleine : boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3tyHtCFuhu8MwL1Jz1tp-108" vertex="1">
           <mxGeometry y="26" width="640" height="74" as="geometry" />
         </mxCell>
         <mxCell id="3tyHtCFuhu8MwL1Jz1tp-110" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="3tyHtCFuhu8MwL1Jz1tp-108" vertex="1">
           <mxGeometry y="100" width="640" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="3tyHtCFuhu8MwL1Jz1tp-111" value="+ Zone( nbrEmplacementParking : int, nbrEmplacementReserve : int, nbrEmplacement Libre, &#xa;utilisateur : String, estPleine : boolean  )                                                                                             CO&#xa;+ Zone()                                                                                                                             D&#xa;&#xa;+ getNbrEmplacementParking() : int&#xa;+ getNbrEmplacementReserve() : int&#xa;+ getNbrEmplacementLibre() : int&#xa;+getUtilisateur() : String&#xa;+ getEstPleine() : boolean&#xa;+ setNbrEmplacementParking( nbrEmplacementParking : int) : void&#xa;+ setNbrEmplacementReserve( nbrEmplacementReserve : int) : void&#xa;+ setNbrEmplacementLibre( nbrEmplacementLibre : int) : void&#xa;+ setUtilisateur( utilisateur : String) : void&#xa;+ setEstPleine(in estPleine : boolean) : void&#xa;&#xa;+ afficher() : void&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3tyHtCFuhu8MwL1Jz1tp-108" vertex="1">
-          <mxGeometry y="108" width="640" height="252" as="geometry" />
         </mxCell>
         <mxCell id="3tyHtCFuhu8MwL1Jz1tp-112" value="Vehicule" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="3tyHtCFuhu8MwL1Jz1tp-1" vertex="1">
           <mxGeometry x="360" y="70" width="560" height="360" as="geometry">
