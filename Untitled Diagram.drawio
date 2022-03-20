@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T13:56:33.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="LMFLDV8biJ-8dD0xGph6" version="17.1.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-20T13:57:26.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="Xlo5VlkPcAGNTjwi8cpY" version="17.1.3" type="github" pages="9">
   <diagram id="tc6RuyASvO1Nn48kO2Fu" name="Projet global">
     <mxGraphModel dx="1278" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -607,7 +607,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="35tEDzCWrClKtsYGOV9o" name="DDC BDD">
-    <mxGraphModel dx="1826" dy="-46" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3195" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="6xmCoQb9G8iWFu6X9WeB-0" />
         <mxCell id="6xmCoQb9G8iWFu6X9WeB-1" parent="6xmCoQb9G8iWFu6X9WeB-0" />
@@ -736,7 +736,7 @@
         <mxCell id="gFav6YBOeXiWDGeA23yF-32" value="idVehicule : String     PK&#xa;marque : String&#xa;modele : String&#xa;longueur : double&#xa;largeur : double" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gFav6YBOeXiWDGeA23yF-31">
           <mxGeometry y="26" width="300" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="gFav6YBOeXiWDGeA23yF-33" value="Lecteur" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="6xmCoQb9G8iWFu6X9WeB-1">
+        <mxCell id="gFav6YBOeXiWDGeA23yF-33" value="Lecteur" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#9AC7BF;" vertex="1" parent="6xmCoQb9G8iWFu6X9WeB-1">
           <mxGeometry x="20" y="1596" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gFav6YBOeXiWDGeA23yF-34" value="id : String    PK&#xa;état : boolean NN&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gFav6YBOeXiWDGeA23yF-33">
