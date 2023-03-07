@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T18:53:52.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Xv3yGZtnuQCk3bfOsJ9R" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T19:39:39.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qKTjsP77psTW3eViZBKK" version="21.0.2" type="github">
   <diagram name="Page-1" id="cQ5CMKUKB73tTbLdVCQ3">
-    <mxGraphModel dx="2440" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,6 +161,60 @@
             <mxPoint x="270" y="410" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQxk1bWwGIDrLUCAxITk-42" target="fQxk1bWwGIDrLUCAxITk-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="600" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-43" value="&lt;b&gt;Utilisateur&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-44" value="Site web &quot;Mairies et équipements sportifs&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="633" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQxk1bWwGIDrLUCAxITk-45" target="fQxk1bWwGIDrLUCAxITk-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQxk1bWwGIDrLUCAxITk-45" target="fQxk1bWwGIDrLUCAxITk-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="840" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-46" value="&lt;b&gt;Serveur qui héberge la BDD&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="865" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQxk1bWwGIDrLUCAxITk-48" target="fQxk1bWwGIDrLUCAxITk-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1040" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-49" value="&lt;b&gt;Base de données (BDD)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1045" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-50" value="Mairies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-547.5" y="1080" width="175" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-51" value="Equipements sportifs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-547.5" y="1140" width="175" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-52" value="Carte" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-547.5" y="1201.5" width="175" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-56" value="Résultat de la requête SQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-707.5" y="940" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-57" value="Envoi de la requête SQL associée à la commande" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-372.5" y="940" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-61" value="Résultat de la commande (sortie)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-707.5" y="740" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-62" value="Envoi de la commande (Entrée)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="740" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
