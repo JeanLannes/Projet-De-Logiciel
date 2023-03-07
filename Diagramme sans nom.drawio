@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T18:35:48.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DQgJLqEjv8UzD3hn4rCu" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T18:42:26.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="iudauqt-Pbi7IJ8RKwPx" version="21.0.2" type="github">
   <diagram name="Page-1" id="cQ5CMKUKB73tTbLdVCQ3">
     <mxGraphModel dx="2440" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="450" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fQxk1bWwGIDrLUCAxITk-8" value="Afficher la liste des équipements" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="281" y="79" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fQxk1bWwGIDrLUCAxITk-9" value="Rechercher une ville" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="120" height="80" as="geometry" />
@@ -46,14 +46,14 @@
         <mxCell id="fQxk1bWwGIDrLUCAxITk-11" value="Zoomer/Cliquer pour afficher les infos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fQxk1bWwGIDrLUCAxITk-12" value="Affichage d&#39;un batiment précis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-12" value="Sélectionner un bâtiment précis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="401" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fQxk1bWwGIDrLUCAxITk-13" value="Afficher les informations d&#39;un équipement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="120" height="80" as="geometry" />
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-13" value="Afficher les informations de l&#39;équipement sportif" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fQxk1bWwGIDrLUCAxITk-14" value="Afficher les informations d&#39;une Mairie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="120" height="80" as="geometry" />
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-14" value="Afficher les informations de la Mairie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fQxk1bWwGIDrLUCAxITk-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/149/149749.png;" vertex="1" parent="1">
           <mxGeometry x="800" y="159" width="162" height="162" as="geometry" />
@@ -75,6 +75,9 @@
           <mxGeometry x="0.2014" y="-47" width="160" relative="1" as="geometry">
             <mxPoint x="360" y="280" as="sourcePoint" />
             <mxPoint x="520" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="503" y="160" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -83,10 +86,13 @@
             <mxPoint x="610" y="170" as="sourcePoint" />
             <mxPoint x="513" y="222" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="503" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fQxk1bWwGIDrLUCAxITk-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fQxk1bWwGIDrLUCAxITk-8" target="fQxk1bWwGIDrLUCAxITk-9">
-          <mxGeometry x="0.5" y="40" width="160" relative="1" as="geometry">
+        <mxCell id="fQxk1bWwGIDrLUCAxITk-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fQxk1bWwGIDrLUCAxITk-8" target="fQxk1bWwGIDrLUCAxITk-9">
+          <mxGeometry x="-0.1511" y="34" width="160" relative="1" as="geometry">
             <mxPoint x="270" y="450" as="sourcePoint" />
             <mxPoint x="270" y="410" as="targetPoint" />
             <mxPoint as="offset" />
@@ -110,18 +116,12 @@
             <mxPoint x="210" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fQxk1bWwGIDrLUCAxITk-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fQxk1bWwGIDrLUCAxITk-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="250" as="sourcePoint" />
-            <mxPoint x="210" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fQxk1bWwGIDrLUCAxITk-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQxk1bWwGIDrLUCAxITk-8" target="fQxk1bWwGIDrLUCAxITk-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="270" as="sourcePoint" />
             <mxPoint x="220" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="710" y="100" />
+              <mxPoint x="680" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -130,7 +130,7 @@
             <mxPoint x="330" y="130" as="sourcePoint" />
             <mxPoint x="810" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="700" y="400" />
+              <mxPoint x="680" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
